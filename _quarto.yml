@@ -3,24 +3,24 @@ project:
   output-dir: docs
   
 website:
-  title: "Página Web"
+  title: " "
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Acerca de Mi
       - projects.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/WalterqvPR
       - icon: github
-        href: https://github.com/walterqv/website
+        href: https://github.com/walterqv
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Walter Quispe Vargas"
 
 format:
   html:
-    theme: cerulean
+    theme: spacelab
     toc: true
 
 editor: source

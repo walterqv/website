@@ -1,6 +1,6 @@
 ---
-title: "About Me"
-about:
+title: "Walter Quispe Vargas"
+about: 
   id: me
   template: broadside
   image: img/profile.png
@@ -8,12 +8,24 @@ about:
 
 :::{#me}
 
-## Goals
+Soy científico de datos y docente universitario en las areas de Matemática, Estadística y Ciencias de la Computación.
 
-## Education
+## Objetivo
 
-## Experience
+
+
+## Educación
+
+
+
+## Experiencia
+
+
+
+## Habilidades
+
+
+## Areas de interés
 
 :::
 
-Thanks for checking out my web site!
