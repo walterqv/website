@@ -10,22 +10,17 @@ about:
 
 Soy científico de datos y docente universitario en las areas de Matemática, Estadística y Ciencias de la Computación.
 
-## Objetivo
-
-
-
 ## Educación
 
+- Ph.D. Computing and Information Science, 2019, \ Universidad de Puerto Rico Recinto de Mayaguez, USA.
 
+- M.Sc. Mathematics and Statistics, 2006, <br /> Universidad of Puerto Rico Recinto de Mayaguez, USA.
 
-## Experiencia
-
-
-
-## Habilidades
-
+- B.Sc. Mathematics and Statistics, 2001, <br />  Universidad San Antonio Abad del Cusco, Perú.
 
 ## Areas de interés
+
+
 
 :::
 
