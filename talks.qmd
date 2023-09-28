@@ -1,0 +1,13 @@
+---
+title: "Presentaciones"
+---
+
+## I Seminario Internacional de Matemática y Estadística
+
+`Estadística para la Investigación y Aplicaciones con R`
+
+- Ciencia de Datos con `R` con aplicación en Riesgo Crediticio
+
+## Simposio Desentralizado de Matemática y Estadística
+
+- Machine Learning Modeling for Probability of Default 

@@ -20,7 +20,7 @@ Soy científico de datos y docente universitario en las areas de Matemática, Es
 
 ## Areas de interés
 
-
+Machine Learning, Bayesian Statistics, Model Risk Management.
 
 :::
 

@@ -2,8 +2,7 @@
 title: "Proyectos"
 ---
 
-## Proyecto 1
+## Reporte Estadístico en Quarto 
 
-## Proyecto 2
 
-## Proyecto 3
+
