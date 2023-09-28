@@ -1,4 +1,6 @@
 # website
 
-- Add additional tabs/sections by creating new `.qmd` files and listing them in `_quarto.yml` under `projects.qmd`.
+- This project was to create my website using Rstudio, Quarto and a wesite-template from `Joyce Robbins`.
+
+- This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.
 

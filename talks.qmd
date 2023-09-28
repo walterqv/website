@@ -6,7 +6,7 @@ title: "Presentaciones"
 
 `Estadística para la Investigación y Aplicaciones con R`
 
-- Ciencia de Datos con `R` con aplicación en Riesgo Crediticio
+- Ciencia de Datos con **R** y aplicación en Riesgo Crediticio
 
 ## Simposio Desentralizado de Matemática y Estadística
 
