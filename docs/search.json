@@ -1,21 +1,28 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "Walter Quispe Vargas",
     "section": "",
-    "text": "Soy científico de datos y docente universitario en las areas de Matemática, Estadística y Ciencias de la Computación.\n\n\n\nPh.D. Computing and Information Science, 2019,  Universidad de Puerto Rico Recinto de Mayaguez, USA.\nM.Sc. Mathematics and Statistics, 2006,  Universidad of Puerto Rico Recinto de Mayaguez, USA.\nB.Sc. Mathematics and Statistics, 2001,  Universidad San Antonio Abad del Cusco, Perú.\n\n\n\n\nMachine Learning, Bayesian Statistics, Model Risk Management."
+    "text": "Soy investigador, científico de datos y docente universitario en las areas de Matemática, Estadística y Ciencias de la Computación.\n\n\n\nPh.D. Computing and Information Science, 2019,  Universidad de Puerto Rico Recinto de Mayaguez, USA.\nM.Sc. Mathematics and Statistics, 2006,  Universidad of Puerto Rico Recinto de Mayaguez, USA.\nB.Sc. Mathematics and Statistics, 2001,  Universidad San Antonio Abad del Cusco, Perú.\n\n\n\n\n\nApr 2023 - Present, Full Time Adjunt Professor\n\nMath and Stat Department. San Antonio Abad University, Cusco-Perú\n\nTeaching Graduate and Undergraduate Courses: EP703AES Foundations of Probability, ME814AME Actuarial Statistics, ME841AME Multivariate Statistics I, ME842AME Didactics of Statistics.\n\n\n\n \n\nSep 2021 - Aug 2023, Quantitative Risk Analyst.\n\nModel Risk Management at First Bank of Puerto Rico.\n\nUnderstanding, Validating, and Developing advance Machine Learning and Statistical models to comply with regulatory requirements.\n\n\n\n \n\nSep 2020 - Sep 2021, Data Scientist.\n\nArtificial Intelligence at Banco Popular de Puerto Rico.\n\nBuilding intelligent systems by employing advanced Machine Learning algorithms in order to advance business strategy.\n\n\n\n \n\nJan 2020 - Sep 2020, Data Science Post Doctoral Research.\n\nUniversity of Puerto Rico at Mayaguez.\n\n“Collaborative Research: Atomic Level Structural Dynamics in Catalysts.” Harnessing tools from machine learning to perform data-driven discovery in catalysts, NSF Harnessing Data Revolution Program, Grant OAC-1940179, UPRM.\n\n\n\n\n\n\nMachine Learning, Bayesian Statistics, Model Risk Management."
   },
   {
-    "objectID": "index.html#educación",
-    "href": "index.html#educación",
+    "objectID": "about.html#educación",
+    "href": "about.html#educación",
     "title": "Walter Quispe Vargas",
     "section": "",
-    "text": "Ph.D. Computing and Information Science, 2019,  Universidad de Puerto Rico Recinto de Mayaguez, USA.\nM.Sc. Mathematics and Statistics, 2006,  Universidad of Puerto Rico Recinto de Mayaguez, USA.\nB.Sc. Mathematics and Statistics, 2001,  Universidad San Antonio Abad del Cusco, Perú."
+    "text": "Ph.D. Computing and Information Science, 2019,  Universidad de Puerto Rico Recinto de Mayaguez, USA.\nM.Sc. Mathematics and Statistics, 2006,  Universidad of Puerto Rico Recinto de Mayaguez, USA.\nB.Sc. Mathematics and Statistics, 2001,  Universidad San Antonio Abad del Cusco, Perú."
   },
   {
-    "objectID": "index.html#areas-de-interés",
-    "href": "index.html#areas-de-interés",
+    "objectID": "about.html#experiencia",
+    "href": "about.html#experiencia",
+    "title": "Walter Quispe Vargas",
+    "section": "",
+    "text": "Apr 2023 - Present, Full Time Adjunt Professor\n\nMath and Stat Department. San Antonio Abad University, Cusco-Perú\n\nTeaching Graduate and Undergraduate Courses: EP703AES Foundations of Probability, ME814AME Actuarial Statistics, ME841AME Multivariate Statistics I, ME842AME Didactics of Statistics.\n\n\n\n \n\nSep 2021 - Aug 2023, Quantitative Risk Analyst.\n\nModel Risk Management at First Bank of Puerto Rico.\n\nUnderstanding, Validating, and Developing advance Machine Learning and Statistical models to comply with regulatory requirements.\n\n\n\n \n\nSep 2020 - Sep 2021, Data Scientist.\n\nArtificial Intelligence at Banco Popular de Puerto Rico.\n\nBuilding intelligent systems by employing advanced Machine Learning algorithms in order to advance business strategy.\n\n\n\n \n\nJan 2020 - Sep 2020, Data Science Post Doctoral Research.\n\nUniversity of Puerto Rico at Mayaguez.\n\n“Collaborative Research: Atomic Level Structural Dynamics in Catalysts.” Harnessing tools from machine learning to perform data-driven discovery in catalysts, NSF Harnessing Data Revolution Program, Grant OAC-1940179, UPRM."
+  },
+  {
+    "objectID": "about.html#areas-de-interés",
+    "href": "about.html#areas-de-interés",
     "title": "Walter Quispe Vargas",
     "section": "",
     "text": "Machine Learning, Bayesian Statistics, Model Risk Management."
@@ -40,5 +47,12 @@
     "title": "Presentaciones",
     "section": "Simposio Desentralizado de Matemática y Estadística",
     "text": "Simposio Desentralizado de Matemática y Estadística\n\nMachine Learning Modeling for Probability of Default"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Walter Quispe Vargas",
+    "section": "",
+    "text": "DATA SCIENTIST & QUANTITATIVE ANALYST\n\nI’m scientific developer, real-world practitioner focusing on Statistics, Data Analysis and Machine Learning.\nI’m aiming to deploy my professional knowledge in academia and industry to perform data-driven discovery and decision making process.\nI enjoy making research and develop tools for data science model life cycle.\nI studied Computing and Information Science, finishing my PhD in 2019, I worked in academia (teaching and doing research) and in banking industry (model risk management). I usually use R, Python and SQL to develop models."
   }
 ]

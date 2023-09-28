@@ -1,0 +1,58 @@
+---
+title: "Walter Quispe Vargas"
+about: 
+  id: me
+  template: broadside
+  image: img/profile.png
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+:::{#me}
+
+Soy investigador, científico de datos y docente universitario en las areas de Matemática, Estadística y Ciencias de la Computación.
+
+## Educación
+
+- Ph.D. Computing and Information Science, 2019, <br /> Universidad de Puerto Rico Recinto de Mayaguez, USA.
+
+- M.Sc. Mathematics and Statistics, 2006, <br /> Universidad of Puerto Rico Recinto de Mayaguez, USA.
+
+- B.Sc. Mathematics and Statistics, 2001, <br />  Universidad San Antonio Abad del Cusco, Perú.
+
+
+## Experiencia
+
+-   Apr 2023 - Present, **Full Time Adjunt Professor**
+    -   Math and Stat Department. San Antonio Abad University, Cusco-Perú
+        - Teaching Graduate and Undergraduate Courses: EP703AES Foundations of Probability, ME814AME Actuarial Statistics, ME841AME Multivariate Statistics I, ME842AME Didactics of Statistics.
+
+ 
+
+-   Sep 2021 - Aug 2023, **Quantitative Risk Analyst**.
+    -   Model Risk Management at First Bank of Puerto Rico.
+        -   Understanding, Validating, and Developing advance Machine Learning and Statistical models to comply with regulatory requirements.
+
+ 
+
+-   Sep 2020 - Sep 2021, **Data Scientist**.
+    -   Artificial Intelligence at Banco Popular de Puerto Rico.
+        -   Building intelligent systems by employing advanced Machine Learning algorithms in order to advance business strategy.
+
+ 
+
+-   Jan 2020 - Sep 2020, **Data Science Post Doctoral Research**.
+    -   University of Puerto Rico at Mayaguez.
+        -   "Collaborative Research: Atomic Level Structural Dynamics in Catalysts." Harnessing tools from machine learning to perform data-driven discovery in catalysts, NSF Harnessing Data Revolution Program, Grant OAC-1940179, UPRM.
+
+
+## Areas de interés
+
+Machine Learning, Bayesian Statistics, Model Risk Management.
+
+:::
+

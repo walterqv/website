@@ -3,24 +3,25 @@ title: "Walter Quispe Vargas"
 about: 
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/wal.png
 ---
+<style>
+body {
+text-align: justify}
+</style>
+
 
 :::{#me}
 
-Soy científico de datos y docente universitario en las areas de Matemática, Estadística y Ciencias de la Computación.
+- `DATA SCIENTIST & QUANTITATIVE ANALYST`
 
-## Educación
+    - I'm scientific developer, real-world practitioner focusing on **Statistics**, **Data Analysis** and **Machine Learning**. 
 
-- Ph.D. Computing and Information Science, 2019, \ Universidad de Puerto Rico Recinto de Mayaguez, USA.
+    - I'm aiming to deploy my professional knowledge in academia and industry to perform data-driven discovery and decision making process.
 
-- M.Sc. Mathematics and Statistics, 2006, <br /> Universidad of Puerto Rico Recinto de Mayaguez, USA.
-
-- B.Sc. Mathematics and Statistics, 2001, <br />  Universidad San Antonio Abad del Cusco, Perú.
-
-## Areas de interés
-
-Machine Learning, Bayesian Statistics, Model Risk Management.
-
+    - I enjoy making research and develop tools for data science model life cycle.
+   
+    - I studied Computing and Information Science, finishing my PhD in 2019, I worked in academia (teaching and doing research) and in banking industry (model risk management). I usually use R, Python and SQL to develop models. 
+    
 :::
 
