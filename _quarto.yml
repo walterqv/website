@@ -14,6 +14,8 @@ website:
         text: Presentaciones
       - href: about.qmd
         text: Acerca de Mi
+      - href: pdf/WalterQuispeCV.pdf
+        text: CV
     tools:
       - icon: mastodon
         href: https://mastodon.social/@walterqv

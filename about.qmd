@@ -28,26 +28,25 @@ Soy investigador, científico de datos y docente universitario en las areas de M
 ## Experiencia
 
 -   Apr 2023 - Present, **Full Time Adjunt Professor**
-    -   Math and Stat Department. San Antonio Abad University, Cusco-Perú
-        - Teaching Graduate and Undergraduate Courses: EP703AES Foundations of Probability, ME814AME Actuarial Statistics, ME841AME Multivariate Statistics I, ME842AME Didactics of Statistics.
-
- 
+    -   San Antonio Abad University, Cusco, Perú
 
 -   Sep 2021 - Aug 2023, **Quantitative Risk Analyst**.
     -   Model Risk Management at First Bank of Puerto Rico.
-        -   Understanding, Validating, and Developing advance Machine Learning and Statistical models to comply with regulatory requirements.
-
- 
 
 -   Sep 2020 - Sep 2021, **Data Scientist**.
     -   Artificial Intelligence at Banco Popular de Puerto Rico.
-        -   Building intelligent systems by employing advanced Machine Learning algorithms in order to advance business strategy.
-
- 
 
 -   Jan 2020 - Sep 2020, **Data Science Post Doctoral Research**.
-    -   University of Puerto Rico at Mayaguez.
-        -   "Collaborative Research: Atomic Level Structural Dynamics in Catalysts." Harnessing tools from machine learning to perform data-driven discovery in catalysts, NSF Harnessing Data Revolution Program, Grant OAC-1940179, UPRM.
+    -   University of Puerto Rico at Mayaguez, USA.
+
+-   Jan 2013 - Dic 2019, **Teaching and Research Assistant**.
+    -   University of Puerto Rico at Mayaguez, USA.
+    
+-   Aug 2007 - Dic 2012, **Assistant Professor**.
+    -   University of Puerto Rico at Rio Piedras, USA.  
+    
+-   Aug 2006 - Aug 2007, **Assistant Professor**.
+    -   University of Puerto Rico at Utuado, USA.
 
 
 ## Areas de interés
