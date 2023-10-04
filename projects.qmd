@@ -2,8 +2,15 @@
 title: "Proyectos"
 ---
 
-## Reporte Estadístico en Quarto 
+## Reporte Estadístico
+
+- Customized Statistical Report Template for `San Antonio Abad` University.
+    
+    - [Reporte Estadístico (pdf)](pdf/quarto.pdf)
+    - [Repositorio](https://github.com/walterqv/ReportR)
+
+
 
 ## Thesis Template for UNSAAC in Quarto
 
-
+- Coming soon
