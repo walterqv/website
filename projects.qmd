@@ -2,6 +2,13 @@
 title: "Proyectos"
 ---
 
+
+## Thesis Template for UNSAAC in Quarto
+
+- Coming soon
+
+
+
 ## Reporte Estadístico
 
 - Customized Statistical Report Template for `San Antonio Abad` University.
@@ -10,7 +17,10 @@ title: "Proyectos"
     - [Repositorio](https://github.com/walterqv/ReportR)
 
 
+## Resume (CV compacto)
 
-## Thesis Template for UNSAAC in Quarto
+- Customized Resume Template.
+    
+    - [Resume (pdf)](pdf/wqv-resume.pdf)
+    - [Repositorio](https://github.com/walterqv/ResumeR)
 
-- Coming soon
