@@ -2,11 +2,11 @@
 title: "Presentaciones"
 ---
 
-## I Seminario Internacional de Matemática y Estadística
+## Seminario Internacional de Matemática y Estadística
 
 - `Colegio de Matemáticos del Perú Region Cusco: Estadística para la Investigación y Aplicaciones con R (10-11 Octubre 2023)`
 
-    - [Ciencia de Datos con R y aplicación en Riesgo Crediticio](https://github.com/walterqv/presentations)
+    - [Ciencia de Datos con R y aplicación en Riesgo Crediticio](https://github.com/walterqv/Seminario-COMAP)
 
 ## Simposio Descentralizado de Matemática y Estadística
 
